@@ -1,0 +1,66 @@
+class,event,support,precision,recall,f1,auc,aupr
+C0,The metabolism of name can be decreased when combined with name.,981,0.9420731707317073,0.944954128440367,0.9435114503816794,0.9935875591073811,0.9816607439557058
+C1,The risk or severity of adverse effects can be increased when name is combined with name.,950,0.9732620320855615,0.9578947368421052,0.9655172413793104,0.9979356746204727,0.9921343955189393
+C2,The serum concentration of name can be increased when it is combined with name.,565,0.920863309352518,0.9061946902654867,0.9134701159678859,0.9856979731658577,0.9402702290382726
+C3,The serum concentration of name can be decreased when it is combined with name.,239,0.9205020920502092,0.9205020920502092,0.9205020920502092,0.9927402019116349,0.9415415646454336
+C4,The therapeutic efficacy of name can be decreased when used in combination with name.,131,0.9596774193548387,0.9083969465648855,0.9333333333333333,0.9911500479752736,0.9725162229027466
+C5,name may increase the central nervous system depressant (CNS depressant) activities of name.,113,0.9572649572649573,0.9911504424778761,0.9739130434782609,0.9996718758417364,0.9862099839257412
+C6,name may increase the QTc-prolonging activities of name.,110,0.9035087719298246,0.9363636363636364,0.9196428571428571,0.9975393972905724,0.9515659569761971
+C7,name may increase the hypotensive activities of name.,109,0.9626168224299065,0.944954128440367,0.9537037037037037,0.9978116552811883,0.981592992221882
+C8,The metabolism of name can be increased when combined with name.,70,0.8591549295774648,0.8714285714285714,0.8652482269503546,0.993695066213524,0.8360267761527551
+C9,name may decrease the antihypertensive activities of name.,55,0.9310344827586207,0.9818181818181818,0.9557522123893806,0.9870172311348783,0.9802774979117185
+C10,name may increase the hypoglycemic activities of name.,36,0.875,0.9722222222222222,0.9210526315789473,0.9999096902375146,0.9915295996447361
+C11,name may increase the anticoagulant activities of name.,32,0.9117647058823529,0.96875,0.9393939393939394,0.9999238836265223,0.9911841003592254
+C12,The serum concentration of the active metabolites of name can be increased when name is used in combination with name.,25,0.6666666666666666,0.8,0.7272727272727273,0.9974824419232847,0.6306285107829127
+C13,name may increase the bradycardic activities of name.,25,0.9583333333333334,0.92,0.9387755102040817,0.999611021069692,0.9700069013112493
+C14,name may increase the serotonergic activities of name.,19,0.8571428571428571,0.9473684210526315,0.9,0.999929029693976,0.9880765988197033
+C15,The therapeutic efficacy of name can be increased when used in combination with name.,17,0.8421052631578947,0.9411764705882353,0.8888888888888888,0.9733312192801649,0.8583207823965427
+C16,name may increase the hypokalemic activities of name.,16,1.0,0.875,0.9333333333333333,1.0,1.0
+C17,name may increase the orthostatic hypotensive activities of name.,16,0.8888888888888888,1.0,0.9411764705882353,0.9998484236054971,0.9548940387635241
+C18,name may decrease the cardiotoxic activities of name.,16,1.0,0.9375,0.967741935483871,1.0,1.0
+C19,name may decrease the excretion rate of name which could result in a higher serum level.,15,0.9375,1.0,0.967741935483871,0.9999820402298851,0.9958333333333333
+C20,name may increase the atrioventricular blocking (AV block) activities of name.,13,1.0,1.0,1.0,1.0,0.9999999999999998
+C21,name may decrease the sedative activities of name.,10,1.0,0.9,0.9473684210526315,0.999973096583266,0.9909090909090909
+C22,name may increase the tachycardic activities of name.,10,1.0,0.9,0.9473684210526315,1.0,0.9999999999999999
+C23,name may increase the hypertensive and vasoconstricting activities of name.,10,1.0,1.0,1.0,1.0,0.9999999999999999
+C24,The risk or severity of QTc prolongation can be increased when name is combined with name.,9,0.9,1.0,0.9473684210526315,0.9999701153547308,0.9888888888888892
+C25,name may increase the antihypertensive activities of name.,8,1.0,1.0,1.0,1.0,1.0
+C26,name may increase the arrhythmogenic activities of name.,8,1.0,1.0,1.0,1.0,1.0
+C27,name may increase the cardiotoxic activities of name.,8,0.8888888888888888,1.0,0.9411764705882353,1.0,1.0
+C28,The risk or severity of hypotension can be increased when name is combined with name.,7,1.0,0.8571428571428571,0.9230769230769231,0.9999615975422427,0.982142857142857
+C29,name may decrease the bronchodilatory activities of name.,7,1.0,1.0,1.0,1.0,0.9999999999999998
+C30,name may increase the hyperkalemic activities of name.,6,0.8571428571428571,1.0,0.9230769230769231,0.9997760458658066,0.8178571428571427
+C31,name may increase the nephrotoxic activities of name.,6,0.75,1.0,0.8571428571428571,0.9998208366926454,0.9107142857142856
+C32,name may increase the hypertensive activities of name.,6,1.0,1.0,1.0,1.0,1.0
+C33,name may increase the vasoconstricting activities of name.,6,1.0,0.8333333333333334,0.9090909090909091,0.9999552091731613,0.976190476190476
+C34,name may increase the neuroexcitatory activities of name.,6,1.0,1.0,1.0,1.0,1.0
+C35,name may decrease the anticoagulant activities of name.,6,1.0,1.0,1.0,1.0,1.0
+C36,name may increase the fluid retaining activities of name.,5,1.0,1.0,1.0,1.0,1.0
+C37,name may increase the antiplatelet activities of name.,5,1.0,1.0,1.0,1.0,1.0
+C38,The serum concentration of the active metabolites of name can be reduced when name is used in combination with name resulting in a loss in efficacy.,5,0.25,0.2,0.2222222222222222,0.4893605588393337,0.20163333612734294
+C39,name may increase the immunosuppressive activities of name.,5,0.8,0.8,0.8,0.9999462654486835,0.9666666666666666
+C40,The risk or severity of bleeding can be increased when name is combined with name.,4,1.0,1.0,1.0,1.0,1.0
+C41,name may decrease the stimulatory activities of name.,4,0.8,1.0,0.8888888888888888,1.0,1.0
+C42,The risk or severity of myelosuppression can be increased when name is combined with name.,4,1.0,1.0,1.0,1.0,1.0
+C43,name may decrease the vasoconstricting activities of name.,4,1.0,1.0,1.0,1.0,1.0
+C44,name may increase the thrombogenic activities of name.,4,0.8,1.0,0.8888888888888888,1.0,1.0
+C45,name may increase the analgesic activities of name.,3,1.0,1.0,1.0,1.0,1.0
+C46,name may increase the anticholinergic activities of name.,3,1.0,0.6666666666666666,0.8,0.9999104905119943,0.9166666666666665
+C47,name can cause an increase in the absorption of name resulting in an increased serum concentration and potentially a worsening of adverse effects.,2,1.0,1.0,1.0,1.0,1.0
+C48,The risk or severity of sedation and somnolence can be increased when name is combined with name.,2,1.0,1.0,1.0,1.0,1.0
+C49,The risk or severity of rhabdomyolysis can be increased when name is combined with name.,1,1.0,1.0,1.0,1.0,1.0
+C50,The risk or severity of hyperkalemia can be increased when name is combined with name.,1,1.0,1.0,1.0,1.0,1.0
+C51,name may increase the hepatotoxic activities of name.,1,0.0,0.0,0.0,0.9997316156736447,0.5
+C52,name may increase the myopathic rhabdomyolysis activities of name.,1,0.0,0.0,0.0,0.9989264626945786,0.2
+C53,name may increase the respiratory depressant activities of name.,1,1.0,1.0,1.0,1.0,1.0
+C54,name can cause a decrease in the absorption of name resulting in a reduced serum concentration and potentially a decrease in efficacy.,1,0.5,1.0,0.6666666666666666,0.9997316156736447,0.5
+C55,name may increase the hyponatremic activities of name.,1,1.0,1.0,1.0,1.0,1.0
+C56,name may increase the vasopressor activities of name.,1,1.0,1.0,1.0,1.0,1.0
+C57,The risk or severity of myopathy and rhabdomyolysis can be increased when name is combined with name.,1,0.5,1.0,0.6666666666666666,1.0,1.0
+C58,name may increase the excretion rate of name which could result in a lower serum level and potentially a reduction in efficacy.,1,1.0,1.0,1.0,1.0,1.0
+C59,name may decrease the neuromuscular blocking activities of name.,1,1.0,1.0,1.0,1.0,1.0
+C60,The risk of a hypersensitivity reaction to name is increased when it is combined with name.,0,0.0,0.0,0.0,,
+C61,name may increase the hyperglycemic activities of name.,0,0.0,0.0,0.0,,
+C62,name may increase the hypocalcemic activities of name.,0,0.0,0.0,0.0,,
+C63,name may increase the myelosuppressive activities of name.,0,0.0,0.0,0.0,,
+C64,name may increase the vasodilatory activities of name.,0,0.0,0.0,0.0,,

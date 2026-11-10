@@ -1,0 +1,11 @@
+Copyright (c) 2026 Rawan Mahmoud. All rights reserved.
+
+This repository (source code, notebooks, trained model files, figures and the demo) is
+made available for viewing and evaluation only, for example by reviewers, recruiters and
+instructors. No permission is granted to copy, modify, distribute, sublicense, sell or
+otherwise use it, in whole or in part, without the prior written permission of the
+copyright holder.
+
+Third-party data and software remain under their own licenses and terms, including
+DrugBank (CC BY-NC 4.0), DRKG and the databases it integrates, KEGG, PyTorch, RDKit,
+scikit-learn and Gradio. Nothing in this notice changes those terms.
